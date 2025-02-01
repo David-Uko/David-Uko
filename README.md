@@ -1,4 +1,4 @@
- <img align="right" alt="Coding"  src="Black Modern Vlogger YouTube Banner.png">
+ <img align="right" alt="Coding"  src="Black Modern Vlogger YouTube Banner (1).png">
  
 
 <h1 align="center">Hi 👋, I'm David Uko</h1>
