@@ -1,7 +1,6 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*o1VQUypTIv6q5eIKsWPOuQ.gif)
+![MasterHead]([https://www.canva.com/design/DAGd4aCKxFY/ojtCpniR4CwHskb-g2-Sww/edit?utm_content=DAGd4aCKxFY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton])
 <h1 align="center">Hi 👋, I'm David Uko</h1>
 <h3 align="center">A passionate Full-stack developer </h3>
-
 <p align="left"> <a href="[https://x.com/DavidUko1234"] target="blank"><img src="https://img.shields.io/twitter/follow/dav?logo=twitter&style=for-the-badge" alt="david-uko" /></a> </p>
 
 - 🔭 I’m currently working on [Mistoresglobal.com](https://www.mistoresglobal.com/)
