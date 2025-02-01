@@ -1,14 +1,21 @@
-## Hi, I'm David Uko 👋
+![MasterHead](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*o1VQUypTIv6q5eIKsWPOuQ.gif)
+<h1 align="center">Hi 👋, I'm David Uko</h1>
+<h3 align="center">A passionate Full-stack developer </h3>
 
- A Web Developer passionate about creating seamless digital experiences. I specialize in building scalable, high-performance solutions while continuously exploring new technologies.
+<p align="left"> <a href="[https://x.com/DavidUko1234"] target="blank"><img src="https://img.shields.io/twitter/follow/dav?logo=twitter&style=for-the-badge" alt="david-uko" /></a> </p>
 
-🚀 Freelancer | SEO Specialist | Open Source Contributor
+- 🔭 I’m currently working on [Mistoresglobal.com](https://www.mistoresglobal.com/)
 
-📌 Currently working on: [Your Latest Project]
-📫 Let’s connect: [Your Portfolio] | [LinkedIn] | [Twitter]
+- 🌱 I’m currently learning **C++**
 
-🌟 'Innovate through code, refine through experience.
+- 💬 Ask me about **HTML,PHP,PHYTON**
 
+- 📫 How to reach me **daviduko71@gmail.com**
+
+- ⚡ Fun fact **I am funny**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@davi.duko) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@davi.duko?) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@DavidUko1234) 
