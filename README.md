@@ -1,6 +1,9 @@
-![MasterHead](https://www.canva.com/design/DAGd4aCKxFY/ojtCpniR4CwHskb-g2-Sww/edit?utm_content=DAGd4aCKxFY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![MasterHead](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*o1VQUypTIv6q5eIKsWPOuQ.gif)
 <h1 align="center">Hi 👋, I'm David Uko</h1>
 <h3 align="center">A passionate Full-stack developer </h3>
+<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=David-Uko&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 <p align="left"> <a href="[https://x.com/DavidUko1234"] target="blank"><img src="https://img.shields.io/twitter/follow/dav?logo=twitter&style=for-the-badge" alt="david-uko" /></a> </p>
 
 - 🔭 I’m currently working on [Mistoresglobal.com](https://www.mistoresglobal.com/)
@@ -29,8 +32,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=David-Uko&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=David-Uko&limit=5&theme=dark&combine_all_yearly_contributions=true)
