@@ -1,6 +1,6 @@
  <img align="right" alt="Coding"  src="">
  
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGd4aCKxFY&#x2F;21j1Tj1-LZBsumisxAHLsA&#x2F;view?utm_content=DAGd4aCKxFY&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Black Modern Vlogger YouTube Banner</a> by Jahno Paul
+
 <h1 align="center">Hi 👋, I'm David Uko</h1>
 <h3 align="center">A passionate Full-stack developer </h3>
 <!-- <img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif"> -->
